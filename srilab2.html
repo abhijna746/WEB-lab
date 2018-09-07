@@ -1,0 +1,35 @@
+
+<html>
+<head>
+<title>Squares and cubes</title>
+<style>
+table{
+text-align:center;
+}
+th{
+background-color:red;
+padding:10px;
+}
+tr:hover{
+background-color:orange;
+}
+tr{
+background-color:lightblue;
+}
+tr:nth-child(even){
+background-color:pink;
+}
+</style>
+<body>
+<h3 style="color: crimson"><center><u>Squares and cubes</u></center></h3>
+</body>
+<script>
+document.write("<center><table><tr><th>Number</th><th>Square</th><th>Cube</th></tr>");
+for(var i=0;i<=10;i++)
+{
+document.write("<tr><td>"+i+"</td><td>"+i*i+"</td><td>"+i*i*i+"</td></tr>");
+}
+document.write("</table></center>");
+</script>
+</head>
+</html>
