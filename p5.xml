@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="pr5.css"?>
+<vtu>
+ <student>
+	<usn>USN: 4VV15CS001</usn>
+	<name>Name: Abcde</name>
+	<college>College: VVCE</college>
+	<branch>Branch: CSE</branch>
+	<year>Year: 2019</year>
+	<email>Email: asdfgh@gmail.com</email>
+</student>
+<student>
+	<usn>USN: 4VV15CS002</usn>
+	<name>Name: Bcdef</name>
+	<college>College: VVCE</college>
+	<branch>Branch: CSE</branch>
+	<year>Year: 2019</year>
+	<email>Email: qwerty@gmail.com</email>
+</student>
+<student>
+	<usn>USN 4VV15CS003</usn>
+	<name>Name: Cdefg</name>
+	<college>College: VVCE</college>
+	<branch>Branch: CSE</branch>
+	<year>Year: 2019</year>
+	<email>Email: zxcvcbx@gmail.com</email>
+</student>
+</vtu>

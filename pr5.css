@@ -1,0 +1,41 @@
+vtu{
+	background-color: lavender;
+	max-width: 30%;
+	display: block;
+	margin: auto;
+}
+student{
+	display: block;
+	margin:auto;
+}
+usn{
+	text-decoration: underline;
+	color: purple;
+	display: block;
+}
+name{
+	color: orange;
+	display: block;
+	margin:10px;
+}
+college{
+	color: brown;
+	display: block;
+	margin:10px;
+}
+branch{
+	color: green;
+	display: block;
+	margin:10px;
+
+}
+year{
+	color: red;
+	display: block;
+	margin:10px;
+}
+email{
+	color: black;
+	display: block;
+	margin:10px;
+}
